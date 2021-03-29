@@ -1,3 +1,3 @@
-let h2 = document.createElement('h2')
-h2.textContent = "Why I chose to study software engineering"
-document.querySelector('body').appendChild(h2)
+let h4 = document.createElement('h4')
+h4.textContent = "Published by Alba Teta"
+document.querySelector('body').appendChild(h4)
